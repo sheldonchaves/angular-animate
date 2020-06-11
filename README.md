@@ -1,4 +1,4 @@
-![BUILD DEPLOY GH-PAGES](https://github.com/sheldonchaves/angular-animate/workflows/BUILD%20DEPLOY%20GH-PAGES/badge.svg)
+![Build and Deploy](https://github.com/sheldonchaves/angular-animate/workflows/Build%20and%20Deploy/badge.svg)
 
 # AngularAnimate
 
