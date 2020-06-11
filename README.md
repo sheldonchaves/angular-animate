@@ -1,3 +1,5 @@
+![BUILD DEPLOY GH-PAGES](https://github.com/sheldonchaves/angular-animate/workflows/BUILD%20DEPLOY%20GH-PAGES/badge.svg)
+
 # AngularAnimate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
