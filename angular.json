@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-animate"
+    }
+  },
+  "defaultProject": "angular-animate",
+  "cli": {
+    "analytics": false
+  }
 }
