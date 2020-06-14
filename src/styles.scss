@@ -1,1 +1,13 @@
 @import "~animate.css/animate.min.css";
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    border: 3px solid #343a40;
+
+    .container-fluid {
+        min-height: calc(100vh - 2rem);
+        background-color: var(--light);
+        padding-bottom: 1rem;
+    }
+}
