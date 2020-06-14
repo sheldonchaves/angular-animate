@@ -2,28 +2,41 @@
 
 # AngularAnimate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+### ScreenShots Examples
 
-## Development server
+#### Pixel 2 XL landscape
+![Alt text](screenshots/Pixel_2_XL_landscape.png?raw=true "Pixel 2 XL landscape")
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+***
 
-## Code scaffolding
+#### iPhone X
+![Alt text](screenshots/iPhone_X.png?raw=true "iPhone X")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+***
 
-## Build
+#### Ipad
+![Alt text](screenshots/iPad.png?raw=true "Ipad")
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+***
 
-## Running unit tests
+#### Ipad landscape
+![Alt text](screenshots/iPad_Pro_landscape.png?raw=true "Ipad landscape")
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+***
 
-## Running end-to-end tests
+#### iPhone X landscape
+![Alt text](screenshots/iPhone_X_landscape.png?raw=true "iPhone X landscape")
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+***
 
-## Further help
+### About github project
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Example of project using github actions to build, deploy on gh-pages, create screenshots and commit in repository.
+
+***
+
+### Author
+
+[github](https://sheldonchaves.github.io)
+
+[linkedin](https://www.linkedin.com/in/sheldonchaves/)
